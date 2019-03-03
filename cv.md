@@ -1,7 +1,7 @@
 ### Name and surname: 
 *Anhelina Dzerman*
 
-###E-mails: 
+### E-mails: 
 angelina.derman@mail.ru / angelina.derman@gmail.com
 
 ### Mobile phone number: 
