@@ -1,0 +1,29 @@
+html, body {
+    display: flex;
+    justify-content: center;
+    height: 100%;
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+    background: url("https://images.wallpaperscraft.ru/image/les_derevia_vid_sverhu_136192_1920x1080.jpg" ) ;
+    background-size: cover;
+    
+}
+body{
+    flex-direction: column;
+    width: 1024px;
+    }  
+
+header{
+    display: flex;
+    justify-content: space-between;
+    height: 25%;
+    margin-right: 2%;
+  }
+h1 {
+    margin-top: 0;
+}
+
+header div{
+    margin-left: 2%;
+    font-weight: lighter;
+}
