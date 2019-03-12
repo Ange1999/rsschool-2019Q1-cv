@@ -44,3 +44,31 @@ section {
     color: #bac8c9;
     background: #09262e;
 }
+main{
+    display: flex;
+    flex-direction: column; 
+    justify-content: space-around;
+    align-items: flex-start;
+    height: 65%;
+    background: #09262e;
+    opacity: 0.85;
+}
+main div{
+    margin-right: 2%;
+    margin-left: 2%;
+    color: #b3c9ca;
+}
+a{
+    color: blanchedalmond;
+}
+
+footer{
+    display: flex;
+    justify-content: flex-end;
+    height: 10%;
+    margin-bottom: 0;
+    margin-left: 0;
+    color: rgb(204, 223, 211);
+    background: #010b13;
+    opacity: 0.9;
+}
