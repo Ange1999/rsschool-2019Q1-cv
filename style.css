@@ -4,7 +4,7 @@ html, body {
     height: 100%;
     margin: 0;
     font-family: 'Poppins', sans-serif;
-    background: url("https://images.wallpaperscraft.ru/image/les_derevia_vid_sverhu_136192_1920x1080.jpg" ) ;
+    background: url("./img/main.jpg") ;
     background-size: cover;
     
 }
@@ -21,11 +21,30 @@ header{
   }
 h1 {
     margin-top: 0;
+    font-weight: lighter;
 }
 
 header div{
     margin-left: 2%;
     font-weight: lighter;
+}
+
+header img{
+    height: 160px;
+    width: 160px;
+    object-fit: cover;
+    border-radius: 50%;
+
+}
+
+#sectionExperience{
+    width: 1024px;
+
+    }
+
+#listSkills{
+        list-style-type: none;
+        padding: 0;
 }
 section img{
     width: 80px; 
@@ -49,9 +68,9 @@ main{
     flex-direction: column; 
     justify-content: space-around;
     align-items: flex-start;
-    height: 65%;
+    height: 70%;
     background: #09262e;
-    opacity: 0.85;
+    opacity: 0.8;
 }
 main div{
     margin-right: 2%;
