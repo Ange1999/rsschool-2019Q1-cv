@@ -91,3 +91,9 @@ footer{
     background: #010b13;
     opacity: 0.9;
 }
+#containerAbility{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+}
